@@ -1,0 +1,9 @@
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.deps.json
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.json
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.dev.json
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.dll
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.pdb
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.csprojResolveAssemblyReference.cache
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.AssemblyInfo.cs
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.dll
+c:\users\kathy\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.pdb
